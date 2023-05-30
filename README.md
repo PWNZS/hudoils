@@ -3,7 +3,7 @@
 
 - My YouTube: https://www.youtube.com/@pwnzs
 - My Twitch https://www.twitch.tv/pwnzs
--My Discord channel: https://discord.gg/xFKTJ83aNh
+- My Discord channel: https://discord.gg/xFKTJ83aNh
 
 <!---
 hudoils/hudoils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
