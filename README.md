@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @hudoils
+- 👋 Hi, I’m @pnzs
 - 👀 I’m interested in ... Python and PHP
 
-- Contact VK: https://vk.com/id232357251
-- Contact TG: https://t.me/LieBoy
+- My YouTube: https://www.youtube.com/@pwnzs
+- My Twitch https://www.twitch.tv/pwnzs
+-My Discord channel: https://discord.gg/xFKTJ83aNh
 
 <!---
 hudoils/hudoils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
