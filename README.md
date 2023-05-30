@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pnzs
+- 👋 Hi, I’m @pwnzs
 - 👀 I’m interested in ... Python and PHP
 
 - My YouTube: https://www.youtube.com/@pwnzs
